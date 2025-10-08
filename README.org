@@ -4,6 +4,6 @@ Produce Scalable Vector Graphics files with Common Lisp
 
 |---------+---------------------------------------|
 | source  | git:https://github.com/wmannis/cl-svg |
-| commit  | 35b3144                               |
+| commit  | 03fee08                               |
 | systems | cl-svg                                |
 |---------+---------------------------------------|
