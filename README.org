@@ -7,4 +7,4 @@ Produce Scalable Vector Graphics files with Common Lisp
 | commit  | 7dc81ae                               |
 | systems | cl-svg                                |
 |---------+---------------------------------------|
- 
+  
